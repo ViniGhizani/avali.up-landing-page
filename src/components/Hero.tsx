@@ -1,5 +1,5 @@
-import HeroRectangleOne from "../assets/images/rectangleOne.png";
-import HeroRectangleTwo from "../assets/images/rectangleTwo.png";
+import HeroRectangleOne from "../assets/images/RectangleOne.png";
+import HeroRectangleTwo from "../assets/images/RectangleTwo.png";
 import "../styles/utility.css";
 import "../styles/hero.css";
 import "../styles/index.css";
