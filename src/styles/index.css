@@ -15,11 +15,12 @@
 :root {
     --bg-color: #fff;
     --text-color: #252b42;
-    --second-text-color: #aea8ba;
+    --second-text-color: #4f4b53;
     --light-text-color: #FFF;
     --light-gray: #f8f8f83c;
     --primary-color: #010b62;
-    --secundary-color: #b2e3ff;
+    --secundary-color: #BEC3EF;
+    --secundary-color-op: #bec3ef31;
 
     --ff-sans: "Ubuntu", system-ui, sans-serif;
     --fw-base: 400;

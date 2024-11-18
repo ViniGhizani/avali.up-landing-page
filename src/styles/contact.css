@@ -1,0 +1,43 @@
+#contact {
+    display: flex;
+    flex-direction: column;
+    padding-block: 4rem;
+    gap: 2rem;
+    text-align: center;
+
+    header {
+        display: flex;
+        flex-direction: column;
+        gap: 1.5rem;
+        align-items: center;
+    
+        :first-child {
+            color: var(--primary-color);
+            font-weight: var(--fw-bold);
+        }
+    }
+}
+
+.contact{
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    text-align: center;
+
+    input {
+        padding: 0.8rem;
+        border-radius: 0.2rem;
+        border-color: var(--primary-color);
+        border-style: solid;
+        background-color: var(--secundary-color-op);
+    }
+
+    span{
+        min-width: 20rem;
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        margin: auto;
+    }
+}
+

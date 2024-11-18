@@ -39,7 +39,7 @@ export default function Header() {
                                     <a href="#testimonials">Depoimentos</a>
                                 </li>
                                 <li>
-                                    <a href="#reviews">Avaliações</a>
+                                    <a href="#pricing">Planos</a>
                                 </li>
                                 <li>
                                     <a href="#contact">Contato</a>
